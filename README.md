@@ -14,8 +14,7 @@ example: Vampire)
 
 
 ## Prossima aggiunta
-
-Utilizzo di un menù a tendina che va a specificare quale tipo di carta si vuole identificare in base a particolari caratteristiche.(Example:  
+-Utilizzo di un menù a tendina che va a specificare quale tipo di carta si vuole identificare in base a particolari caratteristiche.(Example:  
       "id": 23771716,
       "name": "7 Colored Fish",
       "type": "Normal Monster",
